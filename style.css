@@ -1,0 +1,158 @@
+.menu_div{
+	color: #ececeb;
+	background-color: rgba(0, 50, 50, 0.5);
+	border: 8px solid red;
+	margin-left: 750px;
+	margin-right: 750px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding-left: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 30px;
+}
+
+.menu_div:hover{
+	background-color: rgba(247, 231, 7, 0.8);
+	border: 15px dashed black;
+	color: black;
+
+}
+.ssulka{
+	color: white;
+}
+.ssulka:hover{
+	color: black;
+}
+.vidstyp_diva{
+	margin-top: 300px;
+}
+
+.vd{
+	padding-left: 125px;
+}
+
+
+
+
+
+
+
+
+
+.submit {
+	cursor: pointer;
+	border: 2px solid #115807;
+	background-color: #1a7b0d;
+	box-shadow: inset 0px 20px 20px #ffffff;
+	border-radius: 10px;
+	padding: 8px 14px;
+	width: 220px;
+	height: 50px;
+	text-align: center;
+	font-size: 20px;
+}
+.submit:hover {
+	box-shadow: inset 0px -20px 20px #ffffff;
+}
+.submit:active {
+	margin-top: 1px;
+	margin-bottom: -1px;
+	zoom: 1;
+}
+
+.input{
+	width: 200px;
+	font-size: 17px;
+	padding: 6px 0 4px 10px;
+	border: 3px solid #115807;
+	background-color: #6cbd60;
+	border-radius: 20px;
+	height: 25px;
+	color: black;
+
+}
+
+.radio {
+	cursor: pointer;
+	margin-left: 50px;
+}
+.radio.active {
+	background-position: 0 -86px;
+}
+.radio_value{
+	font-size: 20px;
+	
+}
+.vidstyp_diva2{
+	margin-top: 300px;
+	margin-left: 820px;
+}
+.h2{
+	margin-left: 35px;
+	font-family: Verdana, Helvetica, Arial;
+}
+
+
+
+
+
+.h1{
+	font-style: italic;
+	color: red;
+	font-weight: bold;
+	margin-left:795px;
+}
+
+.hr{
+	margin-left: 470px;
+}
+.h3{
+	font-family: Times New Roman;
+	color: red;
+	text-decoration: underline;
+	margin-left: 50%;
+}
+
+.img{
+width:200px;
+height: 150px;
+border-width: 10px;
+border-style: dotted;
+border-color: #ff0000;
+float: left;
+margin-right: 10px;
+}
+.vid_diva{
+	margin-top: 22px;
+	position: absolute;
+	margin-left: 20px;
+	width: 880px;
+}
+.vid_diva1{
+	margin-top: 40px;
+	margin-left: 920px;
+}
+
+
+
+
+
+.body{
+	background-image: url("https://i.pinimg.com/originals/70/5f/90/705f909ed74e620910935cb325802a93.png");
+}
+.divvv{
+position: absolute;
+top: 220px; 
+left: 800px; 
+width: 200px
+}
+.hh{
+	color:#052301;
+}
+.border_hh{
+	width: 300px;
+border-width: 10px;
+border-style: outset;
+border-color: #052301;
+}
