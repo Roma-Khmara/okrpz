@@ -2,7 +2,7 @@
 	color: #ececeb;
 	background-color: rgba(0, 50, 50, 0.5);
 	border: 8px solid red;
-	margin-left: 750px;
+	margin-left: 600px;
 	margin-right: 750px;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -10,6 +10,12 @@
 	padding-top: 20px;
 	padding-bottom: 20px;
 	font-size: 30px;
+
+}
+
+.zagolovok{
+	font-size: 40px;
+	color: white;
 }
 
 .menu_div:hover{
